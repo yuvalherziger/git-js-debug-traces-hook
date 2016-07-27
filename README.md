@@ -10,7 +10,7 @@ Just a small git pre-commit hook that is aimed towards catching traces of debugg
 
 # What to expect
 
-Assuming you forgot to remove a `console.log(this);` line here and a `debugger;` breakpoint, you commit your changes and then the pre-commit hook throws this wonderful tantrum at you:
+Assuming you forgot to remove a `console.log(this);` line here and a `debugger;` breakpoint there, you commit your changes and then the pre-commit hook throws this wonderful tantrum at you:
 
 ![Throw a tantrum](/screenshots/tantrum.png "Optional Title")
 
