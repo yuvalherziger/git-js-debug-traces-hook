@@ -14,7 +14,7 @@ Assuming you forgot to remove a `console.log(this);` line here and a `debugger;`
 
 ![Throw a tantrum](/screenshots/tantrum.png "Optional Title")
 
-# What to do when you actually want to commit debugging code
+# When you actually want to commit debugging code
 
 ```bash
 ~ git commit --no-verify
